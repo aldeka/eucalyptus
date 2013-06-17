@@ -40,7 +40,7 @@ For UBUNTU, use:
 
 CONFIGURATION
 
-To configure the console to work with your Eucalyptus cloud (version 3.2 and later), edit server/console.ini and change the endpoint. 
+To configure the console to work with your Eucalyptus cloud (version 3.2 and later), edit eucaconsole/console.ini and change the endpoint. 
   - clchost: "HOSTNAME OR IP OF YOUR EUCALYPTUS CLC". 
 Make sure that the 'clchost' is reachable from the host that runs console's web server.
 
